@@ -31,4 +31,4 @@
 <br />  
 <br />  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=svytoq1&show_icons=true&count_private=true&theme=gotham&border_radius=30&include_all_commits=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svytoq1&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)](https://github.com/svytoq) 
+![Stats](https://github-readme-stats.vercel.app/api?username=svytoq&show_icons=true&count_private=true&theme=gotham&border_radius=30&include_all_commits=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svytoq&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)](https://github.com/svytoq) 
