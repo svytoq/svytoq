@@ -28,6 +28,7 @@
 <a href="https://github.com/svytoq/Web_ITMO_Lab/tree/master/lab4" target="_blank" rel="noreferrer"> 6. CRM system for car services on Spring + Thymeleaf </a>
 <br>
 <a href="https://github.com/svytoq/ServiceCheckerTGBot/tree/main" target="_blank" rel="noreferrer"> 7. Bot for Telegram on Spring</a>
+<br />  
+<br />  
 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=svytoq1&show_icons=true&count_private=true&theme=gotham&border_radius=30&include_all_commits=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svytoq1&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)](https://github.com/ivanio1) 
+![Stats](https://github-readme-stats.vercel.app/api?username=svytoq1&show_icons=true&count_private=true&theme=gotham&border_radius=30&include_all_commits=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svytoq1&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)](https://github.com/svytoq) 
