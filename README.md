@@ -25,9 +25,17 @@
 <br>
 <a href="https://github.com/svytoq/Web_ITMO_Lab/tree/master/lab4" target="_blank" rel="noreferrer"> 5. Web Application on Spring + React </a>
 <br>
-<a href="https://github.com/svytoq/Web_ITMO_Lab/tree/master/lab4" target="_blank" rel="noreferrer"> 6. CRM system for car services on Spring + Thymeleaf </a>
+<a href="https://github.com/svytoq/car-service" target="_blank" rel="noreferrer"> 6. CRM system for car services on Spring + Thymeleaf </a>
 <br>
 <a href="https://github.com/svytoq/ServiceCheckerTGBot/tree/main" target="_blank" rel="noreferrer"> 7. Bot for Telegram on Spring</a>
+
+
+## Contacts
+<p align="left">
+  <a href="https://vk.com/svytoq" target="_blank" rel="noreferrer"> <img align="left" alt="VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/> </a>
+   <a href="https://t.me/svytoq" target="_blank" rel="noreferrer"> <img align="left" alt="Telegram" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
+   <a href="https://gitlab.se.ifmo.ru/Svytoq" target="_blank" rel="noreferrer"> <img align="left" alt="GitLab" width="70px" src="https://www.logo.wine/a/logo/GitLab/GitLab-Logo.wine.svg"/></a>
+</p>
 <br />  
 <br />  
 
