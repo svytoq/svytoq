@@ -25,7 +25,7 @@
 <br>
 <a href="https://github.com/svytoq/Web_ITMO_Lab/tree/master/lab4" target="_blank" rel="noreferrer"> 5. Web Application on Spring + React </a>
 <br>
-<a href="https://github.com/svytoq/car-service" target="_blank" rel="noreferrer"> 6. CRM system for car services on Spring + Thymeleaf </a>
+<a href="https://github.com/svytoq/car-service" target="_blank" rel="noreferrer"> 6. CRM system for car services on Spring + FreeMaker </a>
 <br>
 <a href="https://github.com/svytoq/ServiceCheckerTGBot/tree/main" target="_blank" rel="noreferrer"> 7. Bot for Telegram on Spring</a>
 
