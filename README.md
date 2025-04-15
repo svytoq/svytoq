@@ -1,4 +1,4 @@
-Студент Информатики и вычислительной техники в ITMO University
+Студент Информатики и вычислительной техники в ITMO University. Работаю в https://rshb-intech.ru/rshb-intech 
 
 <p align="left"> 
   <img src=https://komarev.com/ghpvc/?username=svytoq1&color=C70039&label=PROFILE+VIEWS alt=svytoq/> 
